@@ -8,4 +8,4 @@ This is the lead
 ##This is the Heading
 This is the outro
 
-<a href="#">Get Started</a>
+<a href="/posts" label="Check Me Out">Get Started</a>
