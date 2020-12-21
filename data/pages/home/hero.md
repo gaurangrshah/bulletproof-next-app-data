@@ -3,14 +3,17 @@ order: 0
 title: home_hero
 
 ---
-<img src="https://images.unsplash.com/photo-1607668017010-612c73eab046" alt="test"/>
+<div>
+  <img src="https://images.unsplash.com/photo-1607668017010-612c73eab046" alt="test"/>
+</div>
 
-This is the lead
+<div>
+  This is the lead
 
-## This is the Heading
+  ## This is the Heading
 
-This is the outro
+  This is the outro
 
 
-<a href="/posts">Check This Out</a>
-
+  <a href="/posts">Check This Out</a>
+</div>
