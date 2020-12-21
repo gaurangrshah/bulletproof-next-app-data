@@ -8,4 +8,4 @@ This is the lead
 ##This is the Heading
 This is the outro
 
-<a href="/posts" title="Check Me Out"/>
+<a href="/posts">Check This Out</a>
