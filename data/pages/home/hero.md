@@ -16,3 +16,4 @@ link:
   This is the outro
   
   
+[Check This Out]('/posts')
