@@ -1,11 +1,8 @@
 ---
 order: 0
 title: home_hero
-link:
-  title: Check This Out
-  prefix: /
-  path: posts
-  
+block_type: hero
+
 ---
   ![hero_image](https://images.unsplash.com/photo-1607668017010-612c73eab046)
 
