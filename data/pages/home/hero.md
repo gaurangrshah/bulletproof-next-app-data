@@ -4,7 +4,7 @@ title: home_hero
 block_type: hero
 
 ---
-  ![hero_image](https://cdn.magdeleine.co/wp-content/uploads/2015/02/YS4_5968_69_70-2-3-1400x933.jpg)  
+  ![hero_image](https://cdn.jsdelivr.net/gh/gaurangrshah/_shots/scrnshots/68747470733a2f2f63646e2e6d616764656c65696e652e636f2f77702d636f6e74656e742f75706c6f6164732f323031352f30322f5953345f353936385f36395f37302d322d332d31343030783933332e6a7067.jpeg)  
 
   This is the lead
 
