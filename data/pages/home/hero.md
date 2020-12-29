@@ -4,7 +4,7 @@ title: home_hero
 block_type: hero
 
 ---
-  ![hero_image](https://github.com/gaurangrshah/_shots/blob/master/scrnshots/q2ARVO.jpg =1600x1066.40625)  
+  ![hero_image](https://github.com/gaurangrshah/_shots/blob/master/scrnshots/q2ARVO.jpg =1600)  
 
   This is the lead
 
