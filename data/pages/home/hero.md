@@ -12,4 +12,4 @@ block_type: hero
 
   This is the outro
   
-  [Check this out](/posts) {:.link}
+  [Check this out](/posts){: .link}
