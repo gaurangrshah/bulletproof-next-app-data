@@ -12,4 +12,4 @@ block_type: hero
 
   This is the outro
   
-  [Check This Out]('/posts')
+  [Check This Out](/posts)
