@@ -8,6 +8,7 @@ block_type: hero
 
   ##### This is the lead
 ---
+
   ## This is the Heading
 
   ###### This is the excerpt
