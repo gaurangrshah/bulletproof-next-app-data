@@ -1,6 +1,6 @@
 ---
 order: 0
-title: service1_card
+title: service_card1
 block_type: card
 
 ---
