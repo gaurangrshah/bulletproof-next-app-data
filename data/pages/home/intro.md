@@ -2,6 +2,7 @@
 order: 1
 title: home_intro
 block_type: content_block
+page: home
 
 ---
 
