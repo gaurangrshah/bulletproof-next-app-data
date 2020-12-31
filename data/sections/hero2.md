@@ -2,8 +2,8 @@
 order: 0
 title: about_hero
 block_type: hero
-pages:
-	- about
+pages: 
+  - about
 
 ---
 
