@@ -2,10 +2,10 @@
 order: 1
 title: service_card2
 block_type: card
-pages:
-	- home
-	- services
-
+pages: 
+  - home
+  - services
+  
 ---
 
 
