@@ -2,9 +2,9 @@
 order: 0
 title: service_card1
 block_type: card
-pages:
-	- home
-	- services
+pages: 
+  - home
+  - services
 
 ---
 
